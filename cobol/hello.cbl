@@ -4,7 +4,7 @@
       *
        PROCEDURE DIVISION.
 
-           DISPLAY 'buildlis'.
+           DISPLAY 'buildlist'.
            STOP RUN.
 
 
